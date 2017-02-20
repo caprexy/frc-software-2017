@@ -571,6 +571,7 @@ AddOutputFilter chunkFilter
 				<Item Name="FPGA_InterruptReadTimestamp.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Interrupt/FPGA_InterruptReadTimestamp.vi"/>
 				<Item Name="FPGA_WaitOnInterrupt.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Interrupt/FPGA_WaitOnInterrupt.vi"/>
 				<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="/&lt;vilib&gt;/ptbypt/NI_PtbyPt.lvlib"/>
+				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
