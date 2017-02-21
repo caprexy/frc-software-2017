@@ -27,18 +27,7 @@
 			<Item Name="FRC Simulated.xml" Type="Document" URL="../FRC Simulated.xml"/>
 		</Item>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
-		<Item Name="Obtain Queue.vi" Type="VI" URL="../Queue/Obtain Queue.vi"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="Queues.ctl" Type="VI" URL="../Refname/Queues.ctl"/>
-			<Item Name="Refname to String (Queues).vi" Type="VI" URL="../Refname/Refname to String (Queues).vi"/>
-			<Item Name="Controllers.ctl" Type="VI" URL="../Refname/Controllers.ctl"/>
-			<Item Name="Refname to String (Controllers).vi" Type="VI" URL="../Refname/Refname to String (Controllers).vi"/>
-			<Item Name="Sensors.ctl" Type="VI" URL="../Refname/Sensors.ctl"/>
-			<Item Name="Refname to String (Sensors).vi" Type="VI" URL="../Refname/Refname to String (Sensors).vi"/>
-			<Item Name="Motors.ctl" Type="VI" URL="../Refname/Motors.ctl"/>
-			<Item Name="Refname to String (Motors).vi" Type="VI" URL="../Refname/Refname to String (Motors).vi"/>
-			<Item Name="Refname to String.vi" Type="VI" URL="../Refname/Refname to String.vi"/>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="Target" Type="RT myRIO">
