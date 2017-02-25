@@ -545,7 +545,6 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_CANTalonSRX_SetReference.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_SetReference.vi"/>
 				<Item Name="WPI_CANTalonSRX_SetPID.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_SetPID.vi"/>
 				<Item Name="WPI_CANTalonSRX_ResetIntegralAccumulator.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/CanMotor/TalonSRX/WPI_CANTalonSRX_ResetIntegralAccumulator.vi"/>
-				<Item Name="ADIS16448_IMU.lvlib" Type="Library" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/ADIS16448 IMU/ADIS16448_IMU.lvlib"/>
 				<Item Name="WPI_InterruptRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Interrupt/WPI_InterruptRef.ctl"/>
 				<Item Name="FPGA_InterruptIndex.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Interrupt/FPGA_InterruptIndex.ctl"/>
 				<Item Name="WPI_SPIMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SPI/WPI_SPIMode.ctl"/>
@@ -599,6 +598,7 @@ AddOutputFilter chunkFilter
 				<Item Name="HB_CloseLog.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/Huskie Board/HB_CloseLog.vi"/>
 				<Item Name="WPI_SerialPortClose.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/SerialPort/WPI_SerialPortClose.vi"/>
 				<Item Name="HB_CloseHuskieBoard.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/Huskie Board/HB_CloseHuskieBoard.vi"/>
+				<Item Name="ADIS16448_IMU.lvlib" Type="Library" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/ADIS16448 IMU/ADIS16448_IMU.lvlib"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
