@@ -232,6 +232,17 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Cameras.ctl" Type="VI" URL="../../Refname/Cameras.ctl"/>
+			<Item Name="Refname to String.vi" Type="VI" URL="../../Refname/Refname to String.vi"/>
+			<Item Name="Refname to String (Motors).vi" Type="VI" URL="../../Refname/Refname to String (Motors).vi"/>
+			<Item Name="Motors.ctl" Type="VI" URL="../../Refname/Motors.ctl"/>
+			<Item Name="Refname to String (Sensors).vi" Type="VI" URL="../../Refname/Refname to String (Sensors).vi"/>
+			<Item Name="Sensors.ctl" Type="VI" URL="../../Refname/Sensors.ctl"/>
+			<Item Name="Refname to String (Controllers).vi" Type="VI" URL="../../Refname/Refname to String (Controllers).vi"/>
+			<Item Name="Controllers.ctl" Type="VI" URL="../../Refname/Controllers.ctl"/>
+			<Item Name="Refname to String (Queues).vi" Type="VI" URL="../../Refname/Refname to String (Queues).vi"/>
+			<Item Name="Queues.ctl" Type="VI" URL="../../Refname/Queues.ctl"/>
+			<Item Name="Refname to String (Cameras).vi" Type="VI" URL="../../Refname/Refname to String (Cameras).vi"/>
 			<Item Name="Vision Server Get Timestamp.vi" Type="VI" URL="../../Vision/Server/Vision Server Get Timestamp.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
@@ -248,7 +259,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Program Files (x86)/FRC Dashboard</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
