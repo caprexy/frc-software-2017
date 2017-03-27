@@ -238,8 +238,6 @@
 			<Item Name="Motors.ctl" Type="VI" URL="../../Refname/Motors.ctl"/>
 			<Item Name="Refname to String (Sensors).vi" Type="VI" URL="../../Refname/Refname to String (Sensors).vi"/>
 			<Item Name="Sensors.ctl" Type="VI" URL="../../Refname/Sensors.ctl"/>
-			<Item Name="Refname to String (Controllers).vi" Type="VI" URL="../../Refname/Refname to String (Controllers).vi"/>
-			<Item Name="Controllers.ctl" Type="VI" URL="../../Refname/Controllers.ctl"/>
 			<Item Name="Refname to String (Queues).vi" Type="VI" URL="../../Refname/Refname to String (Queues).vi"/>
 			<Item Name="Queues.ctl" Type="VI" URL="../../Refname/Queues.ctl"/>
 			<Item Name="Refname to String (Cameras).vi" Type="VI" URL="../../Refname/Refname to String (Cameras).vi"/>
